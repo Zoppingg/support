@@ -11,5 +11,5 @@ jobs:
       - name: Add issue to UTM v1 project
         uses: actions/add-to-project@v0.5.0
         with:
-          project-url: https://github.com/orgs/Zoppingg/projects/2
+          project-url: https://github.com/orgs/Zoppingg/projects/1
           github-token: ${{ secrets.GITHUB_TOKEN }}
